@@ -1,0 +1,10 @@
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\To write common code\To write common code\bin\Debug\To write common code.exe.config
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\To write common code\To write common code\bin\Debug\To write common code.exe
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\To write common code\To write common code\bin\Debug\To write common code.pdb
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\To write common code\To write common code\obj\Debug\To write common code.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\To write common code\To write common code\obj\Debug\To_write_common_code.Form1.resources
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\To write common code\To write common code\obj\Debug\To_write_common_code.Properties.Resources.resources
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\To write common code\To write common code\obj\Debug\To write common code.csproj.GenerateResource.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\To write common code\To write common code\obj\Debug\To write common code.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\To write common code\To write common code\obj\Debug\To write common code.exe
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\To write common code\To write common code\obj\Debug\To write common code.pdb

@@ -1,0 +1,10 @@
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Slider\Slider\bin\Debug\Slider.exe.config
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Slider\Slider\bin\Debug\Slider.exe
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Slider\Slider\bin\Debug\Slider.pdb
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Slider\Slider\obj\Debug\Slider.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Slider\Slider\obj\Debug\Slider.Form1.resources
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Slider\Slider\obj\Debug\Slider.Properties.Resources.resources
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Slider\Slider\obj\Debug\Slider.csproj.GenerateResource.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Slider\Slider\obj\Debug\Slider.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Slider\Slider\obj\Debug\Slider.exe
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Slider\Slider\obj\Debug\Slider.pdb
