@@ -1,0 +1,10 @@
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Progress-Bar-1\Progress-Bar-1\bin\Debug\Progress-Bar-1.exe.config
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Progress-Bar-1\Progress-Bar-1\bin\Debug\Progress-Bar-1.exe
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Progress-Bar-1\Progress-Bar-1\bin\Debug\Progress-Bar-1.pdb
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Progress-Bar-1\Progress-Bar-1\obj\Debug\Progress-Bar-1.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Progress-Bar-1\Progress-Bar-1\obj\Debug\Progress_Bar_1.Form1.resources
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Progress-Bar-1\Progress-Bar-1\obj\Debug\Progress_Bar_1.Properties.Resources.resources
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Progress-Bar-1\Progress-Bar-1\obj\Debug\Progress-Bar-1.csproj.GenerateResource.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Progress-Bar-1\Progress-Bar-1\obj\Debug\Progress-Bar-1.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Progress-Bar-1\Progress-Bar-1\obj\Debug\Progress-Bar-1.exe
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Progress-Bar-1\Progress-Bar-1\obj\Debug\Progress-Bar-1.pdb
