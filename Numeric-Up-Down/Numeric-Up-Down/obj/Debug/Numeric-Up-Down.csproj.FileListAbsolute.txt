@@ -1,0 +1,10 @@
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Numeric-Up-Down\Numeric-Up-Down\bin\Debug\Numeric-Up-Down.exe.config
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Numeric-Up-Down\Numeric-Up-Down\bin\Debug\Numeric-Up-Down.exe
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Numeric-Up-Down\Numeric-Up-Down\bin\Debug\Numeric-Up-Down.pdb
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Numeric-Up-Down\Numeric-Up-Down\obj\Debug\Numeric-Up-Down.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Numeric-Up-Down\Numeric-Up-Down\obj\Debug\Numeric_Up_Down.Form1.resources
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Numeric-Up-Down\Numeric-Up-Down\obj\Debug\Numeric_Up_Down.Properties.Resources.resources
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Numeric-Up-Down\Numeric-Up-Down\obj\Debug\Numeric-Up-Down.csproj.GenerateResource.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Numeric-Up-Down\Numeric-Up-Down\obj\Debug\Numeric-Up-Down.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Numeric-Up-Down\Numeric-Up-Down\obj\Debug\Numeric-Up-Down.exe
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Numeric-Up-Down\Numeric-Up-Down\obj\Debug\Numeric-Up-Down.pdb
