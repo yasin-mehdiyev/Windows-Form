@@ -1,0 +1,10 @@
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\RadioBox,CheckBox,ListBox\RadioBox,CheckBox,ListBox\bin\Debug\RadioBox,CheckBox,ListBox.exe.config
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\RadioBox,CheckBox,ListBox\RadioBox,CheckBox,ListBox\bin\Debug\RadioBox,CheckBox,ListBox.exe
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\RadioBox,CheckBox,ListBox\RadioBox,CheckBox,ListBox\bin\Debug\RadioBox,CheckBox,ListBox.pdb
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\RadioBox,CheckBox,ListBox\RadioBox,CheckBox,ListBox\obj\Debug\RadioBox,CheckBox,ListBox.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\RadioBox,CheckBox,ListBox\RadioBox,CheckBox,ListBox\obj\Debug\RadioBox_CheckBox_ListBox.Form1.resources
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\RadioBox,CheckBox,ListBox\RadioBox,CheckBox,ListBox\obj\Debug\RadioBox_CheckBox_ListBox.Properties.Resources.resources
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\RadioBox,CheckBox,ListBox\RadioBox,CheckBox,ListBox\obj\Debug\RadioBox,CheckBox,ListBox.csproj.GenerateResource.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\RadioBox,CheckBox,ListBox\RadioBox,CheckBox,ListBox\obj\Debug\RadioBox,CheckBox,ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\RadioBox,CheckBox,ListBox\RadioBox,CheckBox,ListBox\obj\Debug\RadioBox,CheckBox,ListBox.exe
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\RadioBox,CheckBox,ListBox\RadioBox,CheckBox,ListBox\obj\Debug\RadioBox,CheckBox,ListBox.pdb
