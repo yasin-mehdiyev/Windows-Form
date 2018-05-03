@@ -1,0 +1,10 @@
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Benzin Application\Benzin Application\bin\Debug\Benzin Application.exe.config
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Benzin Application\Benzin Application\bin\Debug\Benzin Application.exe
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Benzin Application\Benzin Application\bin\Debug\Benzin Application.pdb
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Benzin Application\Benzin Application\obj\Debug\Benzin Application.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Benzin Application\Benzin Application\obj\Debug\Benzin_Application.Form1.resources
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Benzin Application\Benzin Application\obj\Debug\Benzin_Application.Properties.Resources.resources
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Benzin Application\Benzin Application\obj\Debug\Benzin Application.csproj.GenerateResource.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Benzin Application\Benzin Application\obj\Debug\Benzin Application.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Benzin Application\Benzin Application\obj\Debug\Benzin Application.exe
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Benzin Application\Benzin Application\obj\Debug\Benzin Application.pdb
